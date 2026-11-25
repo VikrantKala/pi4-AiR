@@ -17,6 +17,7 @@ Send a Telegram voice note → transcribed locally (whisper.cpp) → reminder ex
 - [ ] 2. Intent extraction (Ollama)
 - [ ] 3. Telegram bot skeleton
 - [ ] 4. Full pipeline + SQLite
+- [ ] 4b. Reminders mirrored as Markdown notes, synced to PC with Syncthing
 - [ ] 5. Scheduler survives reboot
 - [ ] 6. Audio upload to Drive
 - [ ] 7. Edge cases handled
