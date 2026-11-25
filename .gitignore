@@ -1,0 +1,11 @@
+.env
+token.json
+credentials.json
+*.db
+*.sqlite
+*.bin
+*.gguf
+*.ogg
+*.wav
+__pycache__/
+.venv/
